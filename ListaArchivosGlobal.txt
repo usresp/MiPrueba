@@ -26,6 +26,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/logs/refs/heads/master 
 .git/logs/refs/remotes/origin/main 
 .git/logs/refs/remotes/origin/master 
+.git/objects/00/2c883122c24761c2110ffcd31615150f07d240 
 .git/objects/04/4086b9b445bf28f1d5bf09c49b72bb928de539 
 .git/objects/0b/da4c31346d7097183d15c32b597f2bcebfb038 
 .git/objects/14/0d205e02c25907fd47dcb5faa4b611b1a2fe09 
@@ -45,6 +46,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/3f/d7f6a9081f8377a5c76d9ea92546479f9afb33 
 .git/objects/41/83042b7666b4047dc2e8880b3247e01d608640 
 .git/objects/42/963e85099066289485cd6b1b07b159adfd145f 
+.git/objects/4d/4ea6be4080360dc95ac057c57cdcb6fe7c23ee 
 .git/objects/51/f6801168bd424fda0de043b093de28c4f26035 
 .git/objects/59/5c1b574c9eccab3829ebe14de53752c9a313db 
 .git/objects/5b/4dc0059172535a9bba80f53c2b60354afab670 
@@ -52,6 +54,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/63/44e8fb9ef90da4662c85fd18e7874b9549c391 
 .git/objects/67/65fb9c350065c520bc1910890c0de41cd7304b 
 .git/objects/6b/eb701f7705d1bd63eb49c9bce2fe4457a9ec64 
+.git/objects/6c/fbf661d8405864305b44898706f3fe77793891 
 .git/objects/6f/9509c88bed7080d496fc5e1d87a9315e30549d 
 .git/objects/70/ca3deebc084e4df96830d656ec8bb536cb56ba 
 .git/objects/71/a9d86df110c85875a018df48b1907bbaffef0f 
@@ -66,6 +69,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/9c/df54d79580d171f26fea758896637905adf0da 
 .git/objects/a5/bdeb13c883a6b07d12aa7249718cf85590685a 
 .git/objects/ad/7f4342a63babf608191961be83e518ee8237f1 
+.git/objects/ae/01b7a397a4c10fcaac87893683a7aeb4409fae 
 .git/objects/af/0c708385980c19a0b0a5fe9a463b68dfb4221b 
 .git/objects/b4/a6eec935f50b2a8fea7ed346c61e1e2518d95f 
 .git/objects/bb/8c4ec835dd2fbad79e9954b9f69981f4cdb8c1 
@@ -81,6 +85,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/da/5fdfe2de7d0c450adeef1d515f9f00c997a10f 
 .git/objects/dd/3cc59842fdc73ef68168015ed62bbb5d739ba5 
 .git/objects/df/e0770424b2a19faf507a501ebfc23be8f54e7b 
+.git/objects/e2/92935b4a9434bae11275675634af4e5ce37554 
 .git/objects/eb/665792bf8985bd0962812038962ce06e941693 
 .git/objects/ec/5058d09f8b9e798c9e96888c80cae1733709bc 
 .git/objects/f1/5218927d1830f09fe9f5de859e20e6e283c3f9 
