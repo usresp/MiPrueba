@@ -2,14 +2,14 @@
 setlocal EnableDelayedExpansion
 
 REM ================================
-REM 📁 Definir ruta del proyecto
+REM 🌎 VARIABLES GLOBALES
 REM ================================
 set "dirProyecto=C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba"
+set "urlRemoto=https://github.com/usresp/MiPrueba.git"
 
 REM ================================
-REM 🗂️ Generar lista de imágenes
+REM 🗂️ Generar lista de archivos
 REM ================================
-
 cd /d "%dirProyecto%"
 
 REM Borrar archivos antiguos
@@ -38,8 +38,13 @@ if %errorlevel%==0 (
 REM ================================
 REM 🧠 Subir cambios a Git
 REM ================================
-
 cd /d "%dirProyecto%"
+
+REM Asegurarse de que exista el repositorio y remoto
+if not exist ".git" (
+    git init
+    git remote add origin %urlRemoto%
+)
 
 echo 🔄 Agregando archivos de MiCompendio al git...
 git add .
@@ -84,6 +89,7 @@ echo [*] Archivos agregados al git:         !estado_add_img!
 echo [*] Commit creado:                     !estado_commit!
 echo [*] Pull con rebase:                   !estado_pull!
 echo [*] Push al repositorio remoto:        !estado_push!
+echo [*] Repositorio remoto usado:          %urlRemoto%
 echo ================================
 
 pause
