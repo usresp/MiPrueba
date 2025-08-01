@@ -6,6 +6,7 @@ REM 🌎 VARIABLES GLOBALES
 REM ================================
 set "dirProyecto=C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba"
 set "urlRemoto=https://github.com/usresp/MiPrueba.git"
+set "ramaGit=master"
 
 REM ================================
 REM 🗂️ Generar lista de archivos
@@ -43,10 +44,11 @@ cd /d "%dirProyecto%"
 REM Asegurarse de que exista el repositorio y remoto
 if not exist ".git" (
     git init
+    git checkout -b %ramaGit%
     git remote add origin %urlRemoto%
 )
 
-echo 🔄 Agregando archivos de MiCompendio al git...
+echo 🔄 Agregando archivos de MiPrueba al git...
 git add .
 if %errorlevel%==0 (
     set estado_add_img=[OK]
@@ -61,14 +63,14 @@ if %errorlevel%==0 (
     set estado_commit=[FALLÓ]
 )
 
-git pull origin main --rebase
+git pull origin %ramaGit% --rebase
 if %errorlevel%==0 (
     set estado_pull=[OK]
 ) else (
     set estado_pull=[FALLÓ]
 )
 
-git push origin main
+git push origin %ramaGit%
 if %errorlevel%==0 (
     set estado_push=[OK]
 ) else (
@@ -90,6 +92,7 @@ echo [*] Commit creado:                     !estado_commit!
 echo [*] Pull con rebase:                   !estado_pull!
 echo [*] Push al repositorio remoto:        !estado_push!
 echo [*] Repositorio remoto usado:          %urlRemoto%
+echo [*] Rama utilizada:                    %ramaGit%
 echo ================================
 
 pause
