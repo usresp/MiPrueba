@@ -18,11 +18,14 @@ if exist ListaArchivosGlobal.txt del /f /q ListaArchivosGlobal.txt
 if exist ListaArchivosGlobal-cruda.txt del /f /q ListaArchivosGlobal-cruda.txt
 set estado_borrado=[OK]
 
-echo 🔄 Generando lista cruda...
-for /R %%F in (*) do (
-    echo %%F | findstr /V /C:"\.git\" >nul
-    if !errorlevel! == 0 echo %%F >> ListaArchivosGlobal-cruda.txt
-)
+echo 🔄 Generando lista cruda (sin .git)...
+
+REM Crear la lista excluyendo cualquier archivo o carpeta que contenga "\.git\"
+(for /R %%F in (*) do (
+    set "ruta=%%F"
+    echo !ruta! | findstr /I /C:"\.git\" >nul
+    if !errorlevel! NEQ 0 echo !ruta!
+)) > ListaArchivosGlobal-cruda.txt)
 if exist ListaArchivosGlobal-cruda.txt (
     set estado_lista=[OK]
 ) else (
