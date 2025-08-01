@@ -23,7 +23,6 @@ for /R %%F in (*) do (
     echo %%F | findstr /V /C:"\.git\" >nul
     if !errorlevel! == 0 echo %%F >> ListaArchivosGlobal-cruda.txt
 )
-
 if exist ListaArchivosGlobal-cruda.txt (
     set estado_lista=[OK]
 ) else (

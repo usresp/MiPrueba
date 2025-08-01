@@ -48,6 +48,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/42/963e85099066289485cd6b1b07b159adfd145f 
 .git/objects/4d/4ea6be4080360dc95ac057c57cdcb6fe7c23ee 
 .git/objects/51/f6801168bd424fda0de043b093de28c4f26035 
+.git/objects/56/010b8d9e64cf6b68935160c733b09e7aee6be7 
 .git/objects/59/5c1b574c9eccab3829ebe14de53752c9a313db 
 .git/objects/5b/4dc0059172535a9bba80f53c2b60354afab670 
 .git/objects/5e/8447cba242f87b0106eed98e4071bff671d232 
@@ -65,9 +66,11 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/86/f3dd9f1ccd494862b129dd2a806243303ab3ce 
 .git/objects/8a/0d90a6d81fd66db01f9908b6dff6259893d3c8 
 .git/objects/8a/5ffefdb42ec6929e787d66d1d14a55160eea7e 
+.git/objects/8b/a9bb089102ce76f8bd4308424d719f4ce02a6f 
 .git/objects/90/8665e9177147f957df19e0e0557a01469bcd76 
 .git/objects/9c/df54d79580d171f26fea758896637905adf0da 
 .git/objects/a5/bdeb13c883a6b07d12aa7249718cf85590685a 
+.git/objects/a7/671b95aa873cb1941be91c11d8e3163b63969a 
 .git/objects/ad/7f4342a63babf608191961be83e518ee8237f1 
 .git/objects/ae/01b7a397a4c10fcaac87893683a7aeb4409fae 
 .git/objects/af/0c708385980c19a0b0a5fe9a463b68dfb4221b 
@@ -79,6 +82,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/c8/c0caea98a985c209fc783894af7a5c8dc0394d 
 .git/objects/c9/947e4f78aa45116dfdda91d25bef7040349e7e 
 .git/objects/c9/9c79b019128186fa5cd362dd52932e1c374a1b 
+.git/objects/ca/6ed45008ee7a773b5d8b063cff22a79e6d077d 
 .git/objects/cc/a708b2c0ba15794e96aed6dd7cb804c429008c 
 .git/objects/d0/0c5e59589e64ba15e72a40719a3f58e616c270 
 .git/objects/d8/b6a5a1eed1a88df51482d3ff8ab7172c5ec643 
@@ -86,6 +90,7 @@ PrepararYEnviarA-GITHUB.bat
 .git/objects/dd/3cc59842fdc73ef68168015ed62bbb5d739ba5 
 .git/objects/df/e0770424b2a19faf507a501ebfc23be8f54e7b 
 .git/objects/e2/92935b4a9434bae11275675634af4e5ce37554 
+.git/objects/e8/75c668d396c59b2081c57ac0b76b060b6fb8d1 
 .git/objects/eb/665792bf8985bd0962812038962ce06e941693 
 .git/objects/ec/5058d09f8b9e798c9e96888c80cae1733709bc 
 .git/objects/f1/5218927d1830f09fe9f5de859e20e6e283c3f9 
