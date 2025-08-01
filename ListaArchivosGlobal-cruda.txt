@@ -34,6 +34,7 @@ C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\14\0d205e
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\18\d9835f3182d4c79f5e663379393fccec666fa7
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\1b\053268e829e99ccc317de7f025565ad113a8bc
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\1e\b9c23b2fbc0d18376dbdcfd2c41485668eb7fb
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\20\23b62d23b936c1c3e27e56b5e963551ee7ce40
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\20\742d3eee9321ed52692d9b8b1c2cc7ddd037b7
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\22\b3773d06a148fb025a4ea722e489897d352be8
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\25\8ad3e570fb124663cd5c22d4336bac3fad23b1
@@ -59,6 +60,7 @@ C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\56\010b8d
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\59\5c1b574c9eccab3829ebe14de53752c9a313db
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\5b\4dc0059172535a9bba80f53c2b60354afab670
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\5e\8447cba242f87b0106eed98e4071bff671d232
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\60\235f87594d84a7019a3bec7095eb7b0e78d4e5
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\63\44e8fb9ef90da4662c85fd18e7874b9549c391
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\65\13c851028862e37ed9a6bf28625e48b7a9a3bb
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\66\e81d4e8cce456bfb1ebbe88cebc9f83d72bafc
@@ -66,6 +68,7 @@ C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\67\65fb9c
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\69\3a6e78d11e3ba7fa4f845210a7a717214972b7
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\6b\eb701f7705d1bd63eb49c9bce2fe4457a9ec64
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\6c\fbf661d8405864305b44898706f3fe77793891
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\6d\0345abe48ad0dd27a4fb0bff66eb408cc99d00
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\6f\9509c88bed7080d496fc5e1d87a9315e30549d
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\70\ca3deebc084e4df96830d656ec8bb536cb56ba
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\71\a9d86df110c85875a018df48b1907bbaffef0f
@@ -79,6 +82,7 @@ C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\8a\0d90a6
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\8a\5ffefdb42ec6929e787d66d1d14a55160eea7e
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\8b\a9bb089102ce76f8bd4308424d719f4ce02a6f
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\90\8665e9177147f957df19e0e0557a01469bcd76
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\96\a457a528cd15a4f27e75fc046e0853d5cdc263
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\9a\23a0f3d1694c1d8913b10350b483d8320606cf
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\9c\b0a047098af52aa202d97c28da0868ef9c2d4a
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\9c\df54d79580d171f26fea758896637905adf0da
@@ -103,6 +107,7 @@ C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\d8\b6a5a1
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\da\5fdfe2de7d0c450adeef1d515f9f00c997a10f
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\dd\3cc59842fdc73ef68168015ed62bbb5d739ba5
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\e0\3ccc5e2990d0cd15af3b93d46c1b709d978fac
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\e2\92935b4a9434bae11275675634af4e5ce37554
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\e4\0465b599bb500e68447fee0413cb7c08ce7caf
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\e5\ebf5607ccf80ca2828d41e32e31a8f91789c14

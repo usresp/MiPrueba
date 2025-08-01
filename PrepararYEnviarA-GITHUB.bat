@@ -6,7 +6,6 @@ REM 🌎 VARIABLES GLOBALES
 REM ================================
 set "dirProyecto=C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba"
 set "urlRemoto=https://github.com/usresp/MiPrueba.git"
-set "ramaGit=master"
 
 REM ================================
 REM 🗂️ Generar lista de archivos
@@ -18,14 +17,15 @@ if exist ListaArchivosGlobal.txt del /f /q ListaArchivosGlobal.txt
 if exist ListaArchivosGlobal-cruda.txt del /f /q ListaArchivosGlobal-cruda.txt
 set estado_borrado=[OK]
 
-echo 🔄 Generando lista cruda (sin .git)...
+echo 🔄 Generando lista cruda (excluyendo .git)...
 
-REM Crear la lista excluyendo cualquier archivo o carpeta que contenga "\.git\"
+REM ✅ Excluir .git de forma robusta
 (for /R %%F in (*) do (
     set "ruta=%%F"
     echo !ruta! | findstr /I /C:"\.git\" >nul
     if !errorlevel! NEQ 0 echo !ruta!
 )) > ListaArchivosGlobal-cruda.txt
+
 if exist ListaArchivosGlobal-cruda.txt (
     set estado_lista=[OK]
 ) else (
@@ -50,11 +50,10 @@ cd /d "%dirProyecto%"
 REM Asegurarse de que exista el repositorio y remoto
 if not exist ".git" (
     git init
-    git checkout -b %ramaGit%
     git remote add origin %urlRemoto%
 )
 
-echo 🔄 Agregando archivos de MiPrueba al git...
+echo 🔄 Agregando archivos al git...
 git add .
 if %errorlevel%==0 (
     set estado_add_img=[OK]
@@ -69,14 +68,14 @@ if %errorlevel%==0 (
     set estado_commit=[FALLÓ]
 )
 
-git pull origin %ramaGit% --rebase
+git pull origin master --rebase
 if %errorlevel%==0 (
     set estado_pull=[OK]
 ) else (
     set estado_pull=[FALLÓ]
 )
 
-git push origin %ramaGit%
+git push origin master
 if %errorlevel%==0 (
     set estado_push=[OK]
 ) else (
@@ -98,7 +97,6 @@ echo [*] Commit creado:                     !estado_commit!
 echo [*] Pull con rebase:                   !estado_pull!
 echo [*] Push al repositorio remoto:        !estado_push!
 echo [*] Repositorio remoto usado:          %urlRemoto%
-echo [*] Rama utilizada:                    %ramaGit%
 echo ================================
 
 pause
