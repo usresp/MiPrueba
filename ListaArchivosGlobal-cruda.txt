@@ -1,7 +1,10 @@
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\PrepararYEnviarA-GITHUB.bat 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\COMMIT_EDITMSG 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\config 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\description 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\FETCH_HEAD 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\HEAD 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\index 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\hooks\applypatch-msg.sample 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\hooks\commit-msg.sample 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\hooks\fsmonitor-watchman.sample 
@@ -17,4 +20,15 @@ C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\hooks\push-to-che
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\hooks\sendemail-validate.sample 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\hooks\update.sample 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\info\exclude 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\logs\HEAD 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\logs\refs\heads\master 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\27\bb37f7866fcdde4fc4945535e6a6ed496f530b 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\2a\6cfb2b85cb75c48ca421a3a49a65d8fc90834f 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\5b\4dc0059172535a9bba80f53c2b60354afab670 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\71\a9d86df110c85875a018df48b1907bbaffef0f 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\8a\5ffefdb42ec6929e787d66d1d14a55160eea7e 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\90\8665e9177147f957df19e0e0557a01469bcd76 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\d8\b6a5a1eed1a88df51482d3ff8ab7172c5ec643 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\objects\ec\5058d09f8b9e798c9e96888c80cae1733709bc 
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\.git\refs\heads\master 
 C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\PRUEBA\PRUEBA.txt 
