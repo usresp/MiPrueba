@@ -1,1 +1,1 @@
-C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\PRUEBA 2\PRUEBA.txt
+C:\MEDIOS\ProyectosArduinoFZ\ProyectosESP-GitHub\MiPrueba\PRUEBA\PRUEBA.txt
