@@ -25,7 +25,7 @@ REM Crear la lista excluyendo cualquier archivo o carpeta que contenga "\.git\"
     set "ruta=%%F"
     echo !ruta! | findstr /I /C:"\.git\" >nul
     if !errorlevel! NEQ 0 echo !ruta!
-)) > ListaArchivosGlobal-cruda.txt)
+)) > ListaArchivosGlobal-cruda.txt
 if exist ListaArchivosGlobal-cruda.txt (
     set estado_lista=[OK]
 ) else (
